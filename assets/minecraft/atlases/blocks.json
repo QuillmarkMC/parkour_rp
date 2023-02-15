@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "frozen_hell",
+            "prefix": "frozen_hell/"
+        }
+    ]
+}
