@@ -8,25 +8,31 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/iron_nugget"
+      "model": "minecraft:item/parkour_item/exit"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/gold_ingot"
+      "model": "minecraft:item/parkour_item/reset"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "minecraft:item/gold_nugget"
+      "model": "minecraft:item/parkour_item/checkpoint"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "minecraft:item/iron_ingot"
+      "model": "minecraft:item/parkour_item/visibility"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/parkour_item/death"
     }
   ]
 }
