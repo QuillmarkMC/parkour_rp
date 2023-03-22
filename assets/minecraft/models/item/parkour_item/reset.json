@@ -2,5 +2,24 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "item/parkour_item/reset"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.001,
+        0.001,
+        0.001
+      ]
+    }
   }
 }
