@@ -27,7 +27,7 @@ void main() {
     vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
 
 	//if particle is from blocks.png-atlas, render in front of everything else
-	if (texture(Sampler0, UV0) == vec4(1/255.0, 1/255.0, 1/255.0, 18/255.0)) {
+	if (textureSize(Sampler0, 0) == ivec2(8192,4096) && texture(Sampler0, UV0) == vec4(1/255.0, 1/255.0, 1/255.0, 18/255.0)) {
 		gl_Position.z = -1;
 	}
 }
