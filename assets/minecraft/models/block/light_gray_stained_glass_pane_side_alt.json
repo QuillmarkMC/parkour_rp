@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "minecraft:block/packed_ice",
+    "pane": "minecraft:block/packed_ice"
+  }
+}

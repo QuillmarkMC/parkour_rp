@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "magenta_glazed_terracotta",
 	"textures": {
+		"particle": "parkour:frozen_hell/ghastopen",
 		"1": "parkour:frozen_hell/ghastopen"
 	},
 	"elements": [
