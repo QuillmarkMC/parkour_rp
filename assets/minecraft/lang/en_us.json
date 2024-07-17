@@ -36,6 +36,13 @@
 "text.game.course_name.frozen_inferno":"FROZEN INFERNO",
 "text.game.course_name.nightlife":"NIGHTLIFE",
 
+"text.game.course_name.descent.top":"DESCENT TOP TIMES",
+"text.game.course_name.sculking.top":"SCULKING TOP TIMES",
+"text.game.course_name.undertow.top":"UNDERTOW TOP TIMES",
+"text.game.course_name.frogger.top":"FROGGER TOP TIMES",
+"text.game.course_name.frozen_inferno.top":"FROZEN INFERNO TOP TIMES",
+"text.game.course_name.nightlife.top":"NIGHTLIFE TOP TIMES",
+
 "text.game.course_eject":"EJECTED FROM COURSE BECAUSE COURSE DISABLED BY HOST",
 
 "text.game.timer_text":"Time: ",
