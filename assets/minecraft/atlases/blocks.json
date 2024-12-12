@@ -4,6 +4,21 @@
             "type": "directory",
             "source": "frozen_hell",
             "prefix": "frozen_hell/"
+        },
+		{
+            "type": "directory",
+            "source": "logos",
+            "prefix": "logos/"
+        },
+		{
+            "type": "directory",
+            "source": "utilities",
+            "prefix": "utilities/"
+        },
+		{
+            "type": "directory",
+            "source": "sculking",
+            "prefix": "sculking/"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/parkour_item/logo_frogger"
+    "layer0": "parkour:logos/frozen_hell"
   }
 }

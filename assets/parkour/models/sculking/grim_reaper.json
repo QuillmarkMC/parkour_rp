@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/parkour_item/grim_reaper",
-		"2": "item/parkour_item/grim_reaper_scythe",
-		"particle": "item/parkour_item/grim_reaper"
+		"1": "parkour:sculking/grim_reaper",
+		"2": "parkour:sculking/grim_reaper_scythe",
+		"particle": "parkour:sculking/grim_reaper"
 	},
 	"elements": [
 		{
