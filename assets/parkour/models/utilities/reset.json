@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/parkour_item/visibility"
+    "layer0": "parkour:utilities/reset"
   },
   "display": {
     "thirdperson_righthand": {
