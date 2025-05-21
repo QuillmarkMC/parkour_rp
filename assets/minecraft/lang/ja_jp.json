@@ -1,0 +1,65 @@
+{
+
+"text.lobby.welcome.welcome":"ようこそ、",
+"text.lobby.welcome.map_name":"Dimension Dashへ",
+"text.lobby.welcome.explanation":"\n6種類のパルクールコースが用意されています。コースに入るには、スポーン地点周辺にあるポータルを使ってください。各コースの難易度とリーダーボードは入り口の外に表示されており、コースに入ることで自己ベストを見ることができます。頑張って楽しんでください！",
+
+"text.lobby.credits.project_lead":"プロジェクトリーダー",
+"text.lobby.credits.programmer":"プログラマー",
+"text.lobby.credits.map_trailer":"マップトレーラー",
+"text.lobby.credits.builder":"建築",
+"text.lobby.credits.3d_modeler":"3Dモデル",
+
+"text.lobby.credits.info.map_trailer":"マップトレーラー",
+"text.lobby.credits.info.map_download":"マップをダウンロード",
+"text.lobby.credits.info.click":"[ここをクリック]",
+
+"text.lobby.credits.chat.click":"ここを",
+"text.lobby.credits.chat.here":"クリック",
+"text.lobby.credits.chat.click_hover":"ここをクリック！",
+"text.lobby.credits.chat.trailer_info":"して、Dimension Dashのトレーラーをご覧ください！",
+"text.lobby.credits.chat.download_info":"して、Dimension DashのPlanet Minecraftの投稿ページをご覧ください！",
+
+"text.lobby.course_disable":" は現在ホストによって無効化されています",
+
+"text.lobby.leaderboard":"上位記録",
+"text.lobby.difficulty":"難易度: ",
+
+
+"text.game.start.1":"あなたの",
+"text.game.start.2":"個人記録:",
+
+"text.game.course_name.descent":"DESCENT",
+"text.game.course_name.sculking":"SCULKING",
+"text.game.course_name.undertow":"UNDERTOW",
+"text.game.course_name.frogger":"FROGGER",
+"text.game.course_name.frozen_inferno":"FROZEN INFERNO",
+"text.game.course_name.nightlife":"NIGHTLIFE",
+
+"text.game.course_name.descent.top":"DESCENTの上位記録",
+"text.game.course_name.sculking.top":"SCULKINGの上位記録",
+"text.game.course_name.undertow.top":"UNDERTOWの上位記録",
+"text.game.course_name.frogger.top":"FROGGERの上位記録",
+"text.game.course_name.frozen_inferno.top":"FROZEN INFERNOの上位記録",
+"text.game.course_name.nightlife.top":"NIGHTLIFEの上位記録",
+
+"text.game.course_eject":"ホストがコースを使用不可にしたため、コースから退出させられました",
+
+"text.game.timer_text":"記録: ",
+
+"text.game.items.name.visibility":"プレイヤー表示の切り替え",
+"text.game.items.name.checkpoint":"チェックポイントから再スタート",
+"text.game.items.name.restart":"再スタート",
+"text.game.items.name.quit":"ロビーへ戻る",
+
+"text.game.items.use.visibility.on":"プレイヤーが表示されるようになりました。",
+"text.game.items.use.visibility.off":"プレイヤーを非表示にしました。",
+
+"text.game.timer.start":"タイマースタート！",
+"text.game.timer.pb":"自己ベストを更新しました！",
+
+"text.game.checkpoint":"チェックポイント ",
+"text.game.finish":"レベルクリア！",
+"text.game.finish.time":"あなたの記録: "
+
+}
