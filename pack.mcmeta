@@ -2,6 +2,14 @@
 	"pack":{
 		"pack_format": 63,
 		"description": "\u00A76\u00A7oResource pack for: \u00A73\n\u00A7lDimension Dash",
-		"supported_formats": [46, 63]
-	}
+		"supported_formats": [55, 63]
+	},
+    "overlays": {
+        "entries": [
+            {
+                "formats": 55,
+                "directory": "1.21.5"
+            }
+        ]
+    }
 }
