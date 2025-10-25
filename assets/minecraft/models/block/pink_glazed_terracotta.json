@@ -1,6 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "magenta_glazed_terracotta",
+	"credit": "Made by Diamondapollo",
 	"textures": {
 		"particle": "parkour:frozen_hell/ghast",
 		"1": "parkour:frozen_hell/ghast"
