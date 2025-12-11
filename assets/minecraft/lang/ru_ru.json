@@ -1,0 +1,65 @@
+{
+
+"text.lobby.welcome.welcome":"Добро пожаловать в ",
+"text.lobby.welcome.map_name":"Dimension Dash",
+"text.lobby.welcome.explanation":"\nВам доступно шесть разных уровней паркура. Используйте порталы вокруг спавна, чтобы заходить на уровни. Сложность и таблица лидеров каждого уровня отображается около входа. Увидеть ваше лучшее время вы можете, зайдя на уровень. Желаем удачи и хорошо провести время!",
+
+"text.lobby.credits.project_lead":"Руководитель",
+"text.lobby.credits.programmer":"Программист",
+"text.lobby.credits.map_trailer":"Трейлер карты",
+"text.lobby.credits.builder":"Строитель",
+"text.lobby.credits.3d_modeler":"3D Моделист",
+
+"text.lobby.credits.info.map_trailer":"Трейлер карты",
+"text.lobby.credits.info.map_download":"Скачать карту",
+"text.lobby.credits.info.click":"[Нажмите сюда]",
+
+"text.lobby.credits.chat.click":"Нажмите ",
+"text.lobby.credits.chat.here":"сюда",
+"text.lobby.credits.chat.click_hover":"Нажми меня!",
+"text.lobby.credits.chat.trailer_info":", чтобы посмотреть трейлер карты Dimension Dash!",
+"text.lobby.credits.chat.download_info":", чтобы посетить страницу Dimension Dash на Planet Minecraft!",
+
+"text.lobby.course_disable":" ВРЕМЕННО ОТКЛЮЧЁН ХОСТОМ",
+
+"text.lobby.leaderboard":" ЛУЧШЕЕ ВРЕМЯ",
+"text.lobby.difficulty":"СЛОЖНОСТЬ: ",
+
+
+"text.game.start.1":"",
+"text.game.start.2":" — ВАШЕ ЛУЧШЕЕ ВРЕМЯ:",
+
+"text.game.course_name.descent":"СПУСК",
+"text.game.course_name.sculking":"СКАЛКИНГ",
+"text.game.course_name.undertow":"ГЛУБИННЫЙ ПОТОК",
+"text.game.course_name.frogger":"ЛЯГУШАТНИК",
+"text.game.course_name.frozen_inferno":"ЛЕДЯНОЙ АД",
+"text.game.course_name.nightlife":"НОЧНАЯ ЖИЗНЬ",
+
+"text.game.course_name.descent.top":"СПУСК — ЛУЧШЕЕ ВРЕМЯ",
+"text.game.course_name.sculking.top":"СКАЛКИНГ — ЛУЧШЕЕ ВРЕМЯ",
+"text.game.course_name.undertow.top":"ГЛУБИННЫЙ ПОТОК — ЛУЧШЕЕ ВРЕМЯ",
+"text.game.course_name.frogger.top":"ЛЯГУШАТНИК — ЛУЧШЕЕ ВРЕМЯ",
+"text.game.course_name.frozen_inferno.top":"ЛЕДЯНОЙ АД — ЛУЧШЕЕ ВРЕМЯ",
+"text.game.course_name.nightlife.top":"НОЧНАЯ ЖИЗНЬ — ЛУЧШЕЕ ВРЕМЯ",
+
+"text.game.course_eject":"ВАС ВЫГНАЛИ С УРОВНЯ, ТАК КАК ЕГО ОТКЛЮЧИЛ ХОСТ",
+
+"text.game.timer_text":"Время: ",
+
+"text.game.items.name.visibility":"Переключить видимость",
+"text.game.items.name.checkpoint":"Перезапуск с чекпоинта",
+"text.game.items.name.restart":"Перезапуск",
+"text.game.items.name.quit":"Вернуться в лобби",
+
+"text.game.items.use.visibility.on":"Игроки теперь видимые.",
+"text.game.items.use.visibility.off":"Игроки теперь невидимые.",
+
+"text.game.timer.start":"ВРЕМЯ ПОШЛО!",
+"text.game.timer.pb":"ЭТО НОВЫЙ РЕКОРД!",
+
+"text.game.checkpoint":"Чекпоинт ",
+"text.game.finish":"УРОВЕНЬ ПРОЙДЕН! ",
+"text.game.finish.time":"Ваше время: "
+
+}
