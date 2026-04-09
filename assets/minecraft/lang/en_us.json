@@ -60,6 +60,10 @@
 
 "text.game.checkpoint":"Checkpoint ",
 "text.game.finish":"LEVEL CLEAR! ",
-"text.game.finish.time":"Your Time: "
+"text.game.finish.time":"Your Time: ",
 
+"park.ddhelp.player_not_found":"ERROR: Player name was wrong or does not exist!",
+"park.ddhelp.info1":"Use the following command to delete a player from the Dimension Dash leaderboards: ",
+"park.ddhelp.info2":"Replace 'PLAYER_NAME' with the name of the player you want to remove!",
+"park.ddhelp.command":"/function ddhelp:remove {Player:PLAYER_NAME}"
 }

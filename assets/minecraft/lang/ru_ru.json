@@ -60,6 +60,10 @@
 
 "text.game.checkpoint":"Чекпоинт ",
 "text.game.finish":"УРОВЕНЬ ПРОЙДЕН! ",
-"text.game.finish.time":"Ваше время: "
+"text.game.finish.time":"Ваше время: ",
 
+"park.ddhelp.player_not_found":"ОШИБКА: Имя игрока указано неверно, либо его не существует!",
+"park.ddhelp.info1":"Введите следующую команду, чтобы убрать игрока из таблицы лидеров Dimension Dash: ",
+"park.ddhelp.info2":"Замените 'PLAYER_NAME' именем игрока, которого хотите убрать!",
+"park.ddhelp.command":"/function ddhelp:remove {Player:PLAYER_NAME}"
 }

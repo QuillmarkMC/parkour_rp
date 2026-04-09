@@ -60,6 +60,10 @@
 
 "text.game.checkpoint":"チェックポイント ",
 "text.game.finish":"レベルクリア！",
-"text.game.finish.time":"あなたの記録: "
+"text.game.finish.time":"あなたの記録: ",
 
+"park.ddhelp.player_not_found":"エラー: プレイヤー名が間違っているか、存在しません！",
+"park.ddhelp.info1":"Dimension Dashのリーダーボードからプレイヤーを削除するには、以下のコマンドを使用してください:  ",
+"park.ddhelp.info2":"「PLAYER_NAME」を削除したいプレイヤーの名前に置き換えてください！",
+"park.ddhelp.command":"/function ddhelp:remove {Player:PLAYER_NAME}"
 }
