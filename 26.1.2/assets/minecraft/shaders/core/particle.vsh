@@ -30,6 +30,6 @@ void main() {
 	
 	//if particle is from blocks.png-atlas, render in front of everything else
 	if (texture(Sampler0, UV0) == vec4(1/255.0, 1/255.0, 1/255.0, 18/255.0)) {
-		gl_Position.z = 1;
+		gl_Position.z = -1;
 	}
 }
