@@ -1,7 +1,16 @@
 {
 	"pack":{
         "min_format": [84,0],
-        "max_format": [84,0],
+        "max_format": [88,0],
 		"description": "\u00A76\u00A7oResource pack for: \u00A73\n\u00A7lDimension Dash"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "26.1.2",
+				"min_format": [84,0],
+				"max_format": [84,0]
+			}
+		]
 	}
 }
